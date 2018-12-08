@@ -6,7 +6,7 @@ Sakila business Service Layer
 
 Import this project and sakila-business-dao in your Spring Tool Suite  
 Run as > Spring Boot App > SakilaBusinessWebapiApplication  
-Application start on localhost:8080/
+Application start on localhost:8080/  
 To see all the actors : go to localhost:8080/actor/
 
 ## Built with
